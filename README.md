@@ -34,7 +34,7 @@ Criar uma página atrativa e responsiva que:
 
 ## 🌐 Publicação
 O site está disponível via **GitHub Pages**:  
-👉 [https://seuusuario.github.io/cat-gourmet-landing](https://seuusuario.github.io/cat-gourmet-landing)
+👉 [https://github.com/Vinny-S-S/cat-gourmet-pagina-vendas.git]
 
 ## 📌 Próximos Passos
 - Testar em diferentes dispositivos (desktop, tablet, celular).
